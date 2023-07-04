@@ -1,7 +1,0 @@
-name = ''
-password = ''
-
-while (name  != "raju") or (password != "12345"):
-    name =input("Enter user name")
-    password = input("Enter the password")
-print("Hello thank you for authentication")
